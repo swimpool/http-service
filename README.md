@@ -1,5 +1,7 @@
 # HTTP Service
 
+![HTTP Service Icon](https://raw.github.com/widgetgecko/http-service/master/res/drawable-hdpi/ic_launcher.png)
+
 An Android Service application which allows Chameleon Widgets to perform HTTP requests without encountering any cross-domain issues.
 
 ## Usage
